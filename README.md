@@ -21,13 +21,11 @@ The main objectives of this project are:
 
 ### 1. Reading the Data
 The dataset is read into a pandas DataFrame for further processing.
-```python
 ## Benefits and Applications
-Predictive models for solubility can significantly accelerate the process of drug discovery and
-development by providing quick and accurate estimations of compound solubility. This can help in
-the selection of viable drug candidates and optimization of formulations.
+
+Predictive models for solubility can significantly accelerate the process of drug discovery and development by providing quick and accurate estimations of compound solubility. This can help in the selection of viable drug candidates and optimization of formulations.
 
 ## Conclusion
-This project demonstrates how molecular descriptors can be used to build effective predictive models
-for solubility. By comparing Linear Regression and Random Forest Regressor, we can select the best
-model for predicting the solubility of new compounds.
+
+This project demonstrates how molecular descriptors can be used to build effective predictive models for solubility. By comparing Linear Regression and Random Forest Regressor, we can select the best model for predicting the solubility of new compounds.
+```python
